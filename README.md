@@ -5,6 +5,7 @@
 - python hello.py 
 # The application is running on server given
 # we then created a repo and added this code by commiting and pushing the code to the repository
+<<<<<<< HEAD
 # I had created an jenkins cicd build which automatic triggers when the github code is updated or changed
 Steps 
 1. First configure the job by adding the Repository url of github in the source code management option
